@@ -1,5 +1,5 @@
 const { resolve } = require('path')
-const fs = require('fs')
+import fs from 'fs'
 const webpack = require('webpack')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 const CopyWebpackPlugin = require('copy-webpack-plugin')
