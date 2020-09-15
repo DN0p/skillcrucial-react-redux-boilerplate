@@ -1,6 +1,6 @@
 # SkillCrucial React Redux boilerplate
 ## Quick start
-TEST
+
 1. Clone this repo using:
   ```shell
   $ git clone git@github.com:ovasylenko/skillcrucial-react-redux-boilerplate.git
